@@ -24,13 +24,13 @@
 
 ### Задание 1
 
-![Виртуальная машина](https://github.com/mxi73-21/ya-mon/blob/main/2026-05-04_200003.png)`
+![Виртуальная машина](https://github.com/mxi73-21/yand/blob/main/2026-05-04_200003.png)`
 
-![Дашборд](https://github.com/mxi73-21/ya-mon/blob/main/2026-05-04_210430.png)
+![Дашборд](https://github.com/mxi73-21/yand/blob/main/2026-05-04_210430.png)
 
 
 ---
 
 ### Задание 2
 
-![Алерт](https://github.com/mxi73-21/ya-mon/blob/main/2026-05-04_210758.png)`
+![Алерт](https://github.com/mxi73-21/yand/blob/main/2026-05-04_210758.png)`
